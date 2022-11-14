@@ -26,7 +26,7 @@ let package = Package(
                     // url: "https://github.com/evan3rd/AuthMe/AuthMe.xcframework.zip",
                     url: "https://github.com/evan3rd/AuthMe/blob/develop/AuthMe.xcframework.zip",
                     //checksum: "37f7e9608c6070fb3d1bd2e85f36ffcd145d34c98c368899725e463f54befecf"
-                    checksum: "a942872ecb3a978ee0b2369719eaa8a430e216f76c5a59fab69b299cca20dab9"
+                    checksum: "4505d2a3dc17bc64d603ec7ab476615f81d4b4f01a48f8f68e728cae4e8bda72"
                 ),
         .testTarget(
             name: "MyLibraryTests",
