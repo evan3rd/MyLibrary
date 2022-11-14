@@ -23,7 +23,8 @@ let package = Package(
             dependencies: []),
         .binaryTarget(
                     name: "AuthMe",
-                    url: "https://github.com/evan3rd/AuthMe/AuthMe.xcframework.zip",
+                    // url: "https://github.com/evan3rd/AuthMe/AuthMe.xcframework.zip",
+                    url: "https://github.com/evan3rd/AuthMe/blob/develop/AuthMe.xcframework.zip",
                     checksum: "37f7e9608c6070fb3d1bd2e85f36ffcd145d34c98c368899725e463f54befecf"
                 ),
         .testTarget(
