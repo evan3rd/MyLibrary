@@ -37,7 +37,8 @@ let package = Package(
         .binaryTarget(
           name: "FirebaseAnalytics",
           //url: "https://dl.google.com/firebase/ios/swiftpm/10.1.0/FirebaseAnalytics.zip",
-          url: "https://github.com/evan3rd/MyLibrary/tree/develop/Sources/FirebaseAnalytics.zip",
+          //url: "https://github.com/evan3rd/MyLibrary/tree/develop/Sources/FirebaseAnalytics.zip",
+          url: "https://storage.googleapis.com/authme-mobile.appspot.com/AuthMe.xcframework.zip",
           checksum: "c5429b2e293d7ab2ed2f291bd5edf13f7612b4b69c8261259f48a7b948fa824d"
         ),
     ]
