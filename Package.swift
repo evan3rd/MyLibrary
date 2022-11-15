@@ -11,7 +11,7 @@ let package = Package(
             name: "MyLibrary",
             targets: [
                 "MyLibrary",
-                //"AuthMe",
+                "AuthMe",
                 "FirebaseAnalytics"]
         ),
     ],
